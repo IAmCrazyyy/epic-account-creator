@@ -1,0 +1,9 @@
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\obj\Debug\EpicAutomater.csprojAssemblyReference.cache
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\bin\Debug\EpicAutomater.exe.config
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\bin\Debug\EpicAutomater.exe
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\bin\Debug\EpicAutomater.pdb
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\bin\Debug\WebDriver.dll
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\bin\Debug\WebDriver.xml
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\obj\Debug\EpicAutomater.csproj.CopyComplete
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\obj\Debug\EpicAutomater.exe
+C:\Users\camer\source\repos\EpicAutomater\EpicAutomater\obj\Debug\EpicAutomater.pdb
